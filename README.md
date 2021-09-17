@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Watch List](https://fabtui-watchlist.herokuapp.com/)
 
-- 🌱 I’m currently learning **Ruby and Javascript**
+- 🌱 I’m currently learning **React and Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
