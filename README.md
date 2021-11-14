@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabrice</h1>
 <h3 align="center">A passionate fullstack web developer from France</h3>
 
-- 🔭 I’m currently working on Odahil-tattoo website)
+- 🔭 I’m currently working on Odahil-tattoo website
 
 - 🌱 I’m currently learning **Ruby and Javascript**
 
