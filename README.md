@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Odahil-tattoo website
 
-- 🌱 I’m currently learning **Ruby and Javascript**
+- 🌱 I’m currently learning **PHP and Symfony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
